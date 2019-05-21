@@ -9,5 +9,12 @@ On evey commit it will be a feature of ES6
 - Node > v10.15.3
 
 ## To run 
-- change to commit of the topic that want to review
-- on the console run the command `npm start`
+- change to the folder of the topic that want to review
+- on the console run the command `node <nameScript>`
+
+
+This is based on the course 
+https://app.pluralsight.com/player?course=rapid-es6-training&author=mark-zamoyta&name=rapid-es6-training-m2
+
+Need to follow after 
+https://app.pluralsight.com/library/courses/es2017-es8-getting-started/description
