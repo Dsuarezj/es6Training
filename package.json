@@ -1,0 +1,12 @@
+{
+  "name": "es6training",
+  "version": "1.0.0",
+  "description": "Training to review functionalities and syntax of ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
